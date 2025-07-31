@@ -322,5 +322,59 @@ export const projects = [
     github: "https://github.com/irlapatiavinash12/Mind-care-journal-FullStack",
     webapp: "https://mind-care-journal-full-stack.vercel.app/",
   },
+  {
+    id: 10,
+    title: "Nutricoach",
+    date: "June 2025 - July 2025",
+    description:
+      "NutriCoach is a comprehensive AI-powered nutrition coaching platform that helps users create personalized meal plans, track their macronutrients, and achieve their health goals. The application combines advanced AI technology with user-friendly interfaces to provide a complete nutrition management solution.",
+    image:
+      "https://res.cloudinary.com/dvptfc0ji/image/upload/v1753935676/Screenshot_2025-07-31_094916_shdzlb.png",
+    tags: ["React.js", "Node.js", "Express.js", "sql", "Gemini api"],
+    category: "FullStack Applications",
+    github:"https://github.com/irlapatiavinash12/NutriCoach",
+    webapp: "https://nutricoach-1.onrender.com/",
+    member: [
+      {
+        name: "Avinash Irlapati",
+        img: "https://res.cloudinary.com/dvptfc0ji/image/upload/v1742878550/accenture_resume_photo_wjh72j.jpg",
+        linkedin: "https://www.linkedin.com/in/avinashirlapati/",
+        github: "https://github.com/irlapatiavinash12/NutriCoach",
+      },
+      {
+        name: "Jyothika Bhatroju",
+        img: "https://res.cloudinary.com/dgcekkqae/image/upload/v1753936297/jyophoto_h5tubk.jpg",
+        linkedin: "https://www.linkedin.com/in/jyothika-bhatraju-22474230a/",
+        github: "https://github.com/JYOTHIKAPRABHAKAR/NutriCoach",
+      },
+    ],
+  },
+  {
+    id: 11,
+    title: "Resume Builder",
+    date: "July 2025 - July 2025",
+    description:
+      "A modern, responsive web application for creating professional resumes with AI assistance, beautiful templates, and instant PDF download functionality.",
+    image:
+      "https://res.cloudinary.com/dvptfc0ji/image/upload/v1753936600/Screenshot_2025-07-31_100601_xsjzra.png",
+    tags: ["React.js", "Node.js", "Express.js"],
+    category: "FullStack Applications",
+    github:"https://github.com/irlapatiavinash12/Resume-Builder",
+    webapp: "https://resume-builder-p758.onrender.com/",
+    member: [
+      {
+        name: "Avinash Irlapati",
+        img: "https://res.cloudinary.com/dvptfc0ji/image/upload/v1742878550/accenture_resume_photo_wjh72j.jpg",
+        linkedin: "https://www.linkedin.com/in/avinashirlapati/",
+        github: "https://github.com/irlapatiavinash12/Resume-Builder",
+      },
+      {
+        name: "Jyothika Bhatroju",
+        img: "https://res.cloudinary.com/dgcekkqae/image/upload/v1753936297/jyophoto_h5tubk.jpg",
+        linkedin: "https://www.linkedin.com/in/jyothika-bhatraju-22474230a/",
+        github: "https://github.com/JYOTHIKAPRABHAKAR/Resume-Builder",
+      },
+    ],
+  },
 ];
 
